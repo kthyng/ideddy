@@ -24,6 +24,8 @@ dependencies:
   - ipywidgets
   - graphviz
   - nodejs
+  - rasterio
+  - requests
   - pip:
     - kubernetes
     - graphviz
