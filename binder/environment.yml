@@ -8,7 +8,8 @@ dependencies:
   - distributed
   - dask-kubernetes
   - gcsfs
-  - intake::intake-xarray
+  - intake
+  - intake-xarray
   - zarr
   - matplotlib
   - numcodecs
@@ -25,6 +26,8 @@ dependencies:
   - nodejs
   - jupyter-server-proxy
   - pyproj
+  - rasterio
+  - requests
   - pip:
     - kubernetes
     - graphviz
