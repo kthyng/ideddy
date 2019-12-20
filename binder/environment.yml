@@ -28,6 +28,7 @@ dependencies:
   - pyproj
   - rasterio
   - requests
+  - scikit-learn
   - pip:
     - kubernetes
     - graphviz
