@@ -5,7 +5,7 @@ dependencies:
   - python=3.6
   - xarray
   - dask
-  - dask_ml
+  - dask-ml
   - distributed
   - dask-kubernetes
   - gcsfs
